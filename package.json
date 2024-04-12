@@ -1,0 +1,30 @@
+{
+  "name": "chat-with-oai-from-terminal",
+  "version": "0.0.1",
+  "description": "Simple example of using blessed JS to talk with OAI API",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnmaeda/chat-from-terminal-js.git"
+  },
+  "keywords": [
+    "openai",
+    "chat"
+  ],
+  "author": "John Maeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnmaeda/chat-from-terminal-js/issues"
+  },
+  "homepage": "https://github.com/johnmaeda/chat-from-terminal-js#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "blessed": "^0.1.81",
+    "clipboardy": "^4.0.0"
+  }
+}
