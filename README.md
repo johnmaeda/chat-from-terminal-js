@@ -25,6 +25,10 @@ You'll need to have Node installed on your computer. That's pretty much all you 
 
 Enjoy!
 
+## Todo
+
+I ran out of time to get streaming running. If someone out there wants to make such a PR be my guest :+).
+
 ## Credits
 
 I was watching Matthew Bolaños do this and got jealous so wanted to learn how to do it myself.
