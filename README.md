@@ -10,9 +10,10 @@ If you're a beginner, then check out the [Cozy AI Kitchen](https://www.youtube.c
 
 Have your OpenAI API key ready to input OR have it stored in your environment ahead of time with:
 
-`export OPENAI_API_KEY="sk-..."` 
+`export OPENAI_API_KEY=sk-...` on MacOS/Linux
+`set VARIABLE_NAME=sk-...` on Windows
 
-in your shell startup script. But you can instead just enter your API key in the convenient dialog box that pops up when this app starts.
+in your shell startup script or from your command line. OR, you can instead just enter your API key in the convenient dialog box that pops up when this app starts.
 
 ![](assets/apikeyask.png)
 
