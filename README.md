@@ -1,5 +1,7 @@
 # OpenAI Chatting With Benefits In Terminal
 
+This is a super stripped-down version of what you can do with LLMs and coding. If you're interested in doing more interesting things, then check out [Semantic Kernel](https://github.com/microsoft/semantic-kernel) to go many steps further!
+
 ## Getting Started
 
 Have your OpenAI API key ready to input OR have it stored in your environment ahead of time with:
@@ -27,7 +29,8 @@ Enjoy!
 
 ## Todo
 
-I ran out of time to get streaming running. If someone out there wants to make such a PR be my guest :+).
+* I ran out of time to get streaming running. If someone out there wants to make such a PR be my guest :+).
+* Wiring in Semantic Kernel by combining a backend service in .NET/C# to let me do way more with OAI etc.
 
 ## Credits
 
