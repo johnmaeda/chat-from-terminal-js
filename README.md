@@ -2,6 +2,10 @@
 
 This is a super stripped-down version of what you can do with LLMs and coding. If you're interested in doing more interesting things, then check out [Semantic Kernel](https://github.com/microsoft/semantic-kernel) to go many steps further!
 
+If you're a beginner, then check out the [Cozy AI Kitchen](https://www.youtube.com/playlist?list=PLlrxD0HtieHjHoXHYSiSvpTp_sE5JhNEE) show where I'm sharing simple recipes for cooking with AI across a variety of topics that range from design all the way to dentistry. I'm not kidding ...
+
+[![](assets/caik.jpg)](https://www.youtube.com/playlist?list=PLlrxD0HtieHjHoXHYSiSvpTp_sE5JhNEE)
+
 ## Getting Started
 
 Have your OpenAI API key ready to input OR have it stored in your environment ahead of time with:
