@@ -261,14 +261,14 @@ formBox.on('submit', function(action) {
         // want to only include the first 5 characters of the key then ...
         // be sure to check it is that long first
         if (apiKey.length > 5) {
-            printedApiKey = apiKey.substring(0, 5);
+            printedApiKey = apiKey.substring(0, 3);
         }
         addDebugMessage(`API Key set to ENV: ${printedApiKey}...`);
     } else {
         apiKey = apiKeyBox.getValue();
         // Logic to use the value from apiKeyBox
         if (apiKey.length > 5) {
-            printedApiKey = apiKey.substring(0, 5);
+            printedApiKey = apiKey.substring(0, 3);
         }
         addDebugMessage(`API Key set to INPUT ${printedApiKey}`);
     }
